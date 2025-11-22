@@ -21,18 +21,7 @@ The FACT++ framework extends the original FACT architecture by integrating hand 
 3. **TDU Block**: Final integration for action segmentation
 
 ### Architecture Diagram
-
-```
-[Add your architecture diagram here]
-
-Suggested format:
-- Create a diagram showing the flow from input to output
-- Highlight the keypoint fusion points
-- Show the different fusion methods (A, B, C, D)
-- Save as: architecture.png or architecture.jpg
-- Place in: /home/theflash/Documents/Documents/FACT_actseg_mask_arr/
-- Reference here: ![FACT++ Architecture](architecture.png)
-```
+<img width="1299" height="2451" alt="fc 2" src="https://github.com/user-attachments/assets/0ded4073-64d7-4c30-9c4a-d5b693b547a0" />
 
 ### Key Components
 
