@@ -1,4 +1,4 @@
-# FACT++: Multi-Stage Hand Keypoint Fusion
+# FACT++: Multi-Stage Hand Keypoint Fusion for Enhanced Egocentric Action Segmentation
 
 [![Paper](https://img.shields.io/badge/Paper-IEEE_Xplore-blue)](https://ieeexplore.ieee.org/document/11141070)
 
