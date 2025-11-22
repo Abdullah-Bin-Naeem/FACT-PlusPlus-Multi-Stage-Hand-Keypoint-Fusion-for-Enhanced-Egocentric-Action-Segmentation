@@ -1,0 +1,36 @@
+# Data files (too large for git)
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model checkpoints and logs
+log/
+log_test/
+*.pth
+*.pkl
+
+# Wandb
+wandb/
+
+# OS
+.DS_Store
+Thumbs.db
