@@ -1,5 +1,7 @@
 # FACT++: Multi-Stage Hand Keypoint Fusion
 
+[![Paper](https://img.shields.io/badge/Paper-IEEE_Xplore-blue)](https://ieeexplore.ieee.org/document/11141070)
+
 This repository implements the FACT++ framework, which integrates hand keypoint data into the FACT architecture for enhanced egocentric action segmentation.
 
 ## Features
